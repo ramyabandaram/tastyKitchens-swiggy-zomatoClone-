@@ -5,7 +5,6 @@ import ProtectedRoute from './components/ProtectedRoute'
 import RestaurantDetails from './components/RestaurantDetails'
 import Cart from './components/Cart'
 import NotFound from './components/NotFound'
-import Counter from './components/Counter'
 import './App.css'
 
 const App = () => (
@@ -23,4 +22,5 @@ const App = () => (
     </Switch>
   </BrowserRouter>
 )
+
 export default App

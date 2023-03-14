@@ -296,8 +296,8 @@ class Home extends Component {
               <div className="home-description-container">
                 <h1 className="home-heading">Popular Restaurants</h1>
                 <p className="home-description">
-                  Select Your favorite restaurant special dish and make your day
-                  happy...
+                  Select Your favourite restaurant special dish and make your
+                  day happy...
                 </p>
               </div>
               <div className="search-input-container">
